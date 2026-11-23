@@ -1,0 +1,13 @@
+{
+  "name": "aishahidul",
+  "account_id": "5d880e8c9499eefc5413080af49a15a5",
+  "compatibility_date": "2026-11-23",
+  "workers_dev": true,
+  "assets": {
+    "directory": "./public"
+  },
+  "routes": [
+    { "pattern": "aishahidul.com", "custom_domain": true },
+    { "pattern": "www.aishahidul.com", "custom_domain": true }
+  ]
+}
